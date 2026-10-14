@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Presentation from "./components/Presentation";
-import PresentationClasse from "./components/PresentationClasse";
+import Presentation from "./components/presentation";
+import PresentationClasse from "./components/presentationclasse";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
